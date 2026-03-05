@@ -63,7 +63,6 @@ A modern .NET 10 managed wrapper around 7z.dll supporting 40+ archive formats, w
 
 #### 📚 Projects in Progress
 
-- SevenZipWrapper – 7zip C# wrapper
 - Future projects: Game/Game-Modding development, tools & utility apps
 
 ---
