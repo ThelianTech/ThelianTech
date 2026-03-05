@@ -31,7 +31,7 @@ My projects, including CalradiaForge and SevenZipWrapper, reflect a commitment t
 ### 📂 Notable Projects
 
 <details>
-<summary>CalradiaForge <img src="https://img.shields.io/badge/status-Beta%20Release-blue.svg" alt="Beta Status" height="15"></summary>
+<summary>CalradiaForge <img src="https://img.shields.io/badge/status-v0.9.22.Beta%20Release-blue.svg" alt="Beta Status" height="15"></summary>
 
 **Description:**
 A modern mod launcher for Mount & Blade II: Bannerlord that streamlines mod installation, load order management, and modpack management. Built as a WPF desktop application with layered architecture and strong separation of concerns.
@@ -45,7 +45,7 @@ A modern mod launcher for Mount & Blade II: Bannerlord that streamlines mod inst
 </details>
 
 <details>
-<summary>SevenZipWrapper <img src="https://img.shields.io/badge/status-In%20Development-orange.svg" alt="Development Status" height="15"></summary>
+<summary>SevenZipWrapper <img src="https://img.shields.io/badge/status-v0.9.5.Beta%20Release-blue.svg" alt="Development Status" height="15"></summary>
 
 **Description:**
 A modern .NET 10 managed wrapper around 7z.dll supporting 40+ archive formats, with automatic format detection and stream support. Full rewrite to replace legacy, vulnerable implementations.
