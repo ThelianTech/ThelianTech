@@ -24,7 +24,7 @@ At ThelianTech, I am building more than software — I am cultivating an entrepr
 
 My projects, including CalradiaForge and SevenZipWrapper, reflect a commitment to clean architecture, robust design, and sustainable growth, providing a bridge between practical skills and long-term creative vision.
 
-###### Leveraging AI-assisted coding, I refine architecture and design patterns to build scalable and maintainable projects.
+###### Leveraging AI-assisted coding, I refine code using modern software architecture and design patterns to build scalable and maintainable projects.
 
 ---
 
