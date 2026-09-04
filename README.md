@@ -31,7 +31,7 @@ My projects, including CalradiaForge and SevenZipWrapper, reflect a commitment t
 ### 📂 Notable Projects
 
 <details>
-<summary>CalradiaForge <img src="https://img.shields.io/badge/status-v0.12.15.Beta%20Release-blue.svg" alt="Beta Status" height="15"></summary>
+<summary>CalradiaForge <img src="https://img.shields.io/badge/status-v0.14.Beta%20Release-blue.svg" alt="Beta Status" height="15"></summary>
 
 **Description:**
 A modern mod launcher for Mount & Blade II: Bannerlord that streamlines mod installation, load order management, and modpack management. Built as a WPF desktop application with layered architecture and strong separation of concerns.
@@ -40,12 +40,12 @@ A modern mod launcher for Mount & Blade II: Bannerlord that streamlines mod inst
 - Layered architecture: UI Layer, Core Infrastructure, Helpers, Config System
 - Design patterns: Repository Pattern, Facade/Typed Adapter, Singleton Ownership, Dependency Injection, Defensive Design
 - Focus: Modular, testable, and reusable code
-- Repository: [GitHub](#)
+- Repository: [GitHub](https://github.com/ThelianTech/CalradiaForge)
 
 </details>
 
 <details>
-<summary>SevenZipWrapper <img src="https://img.shields.io/badge/status-v0.9.5.Beta%20Release-blue.svg" alt="Development Status" height="15"></summary>
+<summary>SevenZipWrapper <img src="https://img.shields.io/badge/status-v1.0.0%20Release-blue.svg" alt="Development Status" height="15"></summary>
 
 **Description:**
 A modern .NET 10 managed wrapper around 7z.dll supporting 40+ archive formats, with automatic format detection and stream support. Full rewrite to replace legacy, vulnerable implementations.
@@ -55,7 +55,7 @@ A modern .NET 10 managed wrapper around 7z.dll supporting 40+ archive formats, w
 - Stream support for reading/extracting archives
 - Modern .NET 10 features: nullable annotations, FrozenDictionary, ReadOnlySpan<byte>, NativeLibrary, sealed classes
 - Immutable public API with init-only properties
-- Repository: [GitHub](#)
+- Repository: [GitHub](https://github.com/ThelianTech/SevenZipWrapper)
 
 </details>
 
